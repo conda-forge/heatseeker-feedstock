@@ -20,6 +20,9 @@ requirements:
     - cargo-bundle-licenses
     - libgit2  # only used for a build binary
     - pkg-config
+  host:
+    - if: ppc64le
+      then: zlib
 
 tests:
   - script:
