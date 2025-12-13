@@ -18,7 +18,7 @@ requirements:
     - ${{ compiler('c') }}
     - ${{ stdlib('c') }}
     - cargo-bundle-licenses
-    - libgit2
+    - libgit2  # only used for a build binary
     - pkg-config
 
 tests:
