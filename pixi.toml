@@ -5,7 +5,7 @@
 
 [workspace]
 name = "heatseeker-feedstock"
-version = "3.53.3"  # conda-smithy version used to generate this file
+version = "3.57.0"  # conda-smithy version used to generate this file
 description = "Pixi configuration for conda-forge/heatseeker-feedstock"
 authors = ["@conda-forge/heatseeker"]
 channels = ["conda-forge"]
