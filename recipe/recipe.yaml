@@ -1,5 +1,5 @@
 context:
-  version: "1.10.0"
+  version: "1.10.1"
 
 package:
   name: heatseeker
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/rschmitt/heatseeker/archive/v${{ version }}.tar.gz
-  sha256: 37029e2c70bd2afb21a4d1b49b4d6ea151b4415d22a292a7cd0bcbac3449b1b3
+  sha256: 79c6bdcb19c68a958ff368d3c20c9ec108d5e975736b8334cad04d383d96c7d1
 
 build:
   number: 0
